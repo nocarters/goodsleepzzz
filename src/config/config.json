@@ -1,24 +1,24 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "GoodSleepzzz | Sleep News & Research",
+    "base_url": "https://goodsleepzzz.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "GoodSleepzzz"
   },
 
   "settings": {
-    "pagination": 5
+    "pagination": 10
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "GoodSleepzzz",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "The latest sleep news, research, and insights — delivered daily."
   },
 
   "google_tag_manager": {
@@ -28,12 +28,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025 [GoodSleepzzz](https://goodsleepzzz.com)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "hello@goodsleepzzz.com",
+    "phone": ""
   }
 }
