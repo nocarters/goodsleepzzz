@@ -17,7 +17,7 @@ const aboutCollection = defineCollection({
           description: z.string(),
         }),
       ),
-    }),
+    }).optional(),
   }),
 });
 
