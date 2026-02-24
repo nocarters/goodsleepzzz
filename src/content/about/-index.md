@@ -18,7 +18,7 @@ what_i_do:
 
 ---
 
-Apparently, they do. So, too, do birds and even educated fleas, to paraphrase Cole Porter. We humans do it, too, some better than others. Many of us today attempt to do it in one long spell, but it was not always so. 
+Apparently, they do. So, too, do birds and even educated fleas, to paraphrase Cole Porter. We humans do it, too, some better than others. Most of us today attempt to do it in one long spell, but it was not always so. 
 
 The ancient Romans, for example, had no concept of a dedicated bedtime and napped freely throughout the day. (Though I doubt Julius Caesar got up to much afternoon napping.) Pre-industrial Europeans, on the other hand, slept in two overnight shifts with a break in between because sleeping continuously for eight hours straight would obviously be crazy. Many of us aim for seven to eight hours a night, just like the headlines advise, but a tiny percentage do just fine on four. (You know who you are, a little humility wouldn't go amiss.)
 
